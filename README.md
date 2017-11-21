@@ -1,0 +1,2 @@
+# ScutChessFramework
+基于Scut引擎搭建的棋牌服务端框架
