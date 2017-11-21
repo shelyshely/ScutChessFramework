@@ -1,0 +1,6 @@
+E:\Taurus\Server\bin\Release\ZyGames.Framework.Common4.5\ZyGames.Framework.Common.dll
+E:\Taurus\Server\bin\Release\ZyGames.Framework.Common4.5\ZyGames.Framework.Common.pdb
+E:\Taurus\Server\bin\Release\ZyGames.Framework.Common4.5\ZyGames.Framework.Common.XML
+E:\Taurus\Server\ZyGames.Framework.Common\obj\Release\ZyGames.Framework.Common4.5.csprojResolveAssemblyReference.cache
+E:\Taurus\Server\ZyGames.Framework.Common\obj\Release\ZyGames.Framework.Common.dll
+E:\Taurus\Server\ZyGames.Framework.Common\obj\Release\ZyGames.Framework.Common.pdb

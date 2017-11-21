@@ -1,0 +1,2 @@
+E:\Taurus\Server\bin\Release4.5\ZyGames.Framework.Common4.5\ZyGames.Framework.Common.dll
+E:\Taurus\Server\ZyGames.Framework.Common\obj\Release4.5\ZyGames.Framework.Common.dll
