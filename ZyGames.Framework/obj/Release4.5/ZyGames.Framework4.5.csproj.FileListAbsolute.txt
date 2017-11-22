@@ -1,3 +1,0 @@
-E:\Taurus\Server\bin\Release4.5\ZyGames.Framework4.5\ZyGames.Framework.dll
-E:\Taurus\Server\ZyGames.Framework\obj\Release4.5\ZyGames.Framework4.5.csprojResolveAssemblyReference.cache
-E:\Taurus\Server\ZyGames.Framework\obj\Release4.5\ZyGames.Framework.dll

@@ -77,8 +77,7 @@ namespace ZyGames.Framework.Script
                 Path.Combine(RuntimePrivateBinPath, "protobuf-net.dll"),
                 Path.Combine(RuntimePrivateBinPath, "ServiceStack.Redis.dll"),
                 Path.Combine(RuntimePrivateBinPath, "ZyGames.Framework.Common.dll"),
-                Path.Combine(RuntimePrivateBinPath, "ZyGames.Framework.dll"),
-                Path.Combine(RuntimePrivateBinPath, "io.rong.dll")
+                Path.Combine(RuntimePrivateBinPath, "ZyGames.Framework.dll")
             };
         }
 
